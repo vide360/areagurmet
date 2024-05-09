@@ -1,0 +1,13 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_56B93339_5AE2_2B09_41B5_1567FF6279D9.label = REV00_LAZERTOUR_06
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 49
